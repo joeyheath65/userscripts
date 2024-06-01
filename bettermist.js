@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Make Mist Great Again
-// @author       Joe Heath - heath.joe@heb.com
+// @author       Joe Heath - joseph.r.heath@gmail.com
 // @match        https://*.mist.com/*
 // @grant        none
 // ==/UserScript==
